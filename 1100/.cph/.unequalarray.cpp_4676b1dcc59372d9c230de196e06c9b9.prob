@@ -1,0 +1,1 @@
+{"name":"Local: unequalarray","url":"/home/saidhakshan/strivercpsheet/1100/unequalarray.cpp","tests":[{"id":1702637730907,"input":"4\n5\n1 1 1 1 1\n5\n2 1 1 1 2\n6\n1 1 2 3 3 4\n6\n1 2 1 4 5 4","output":"2\n1\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/saidhakshan/strivercpsheet/1100/unequalarray.cpp","group":"local","local":true}
