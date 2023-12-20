@@ -11,15 +11,20 @@ using namespace std;
 int main() 
 {
     fastread();
-    int t;
-    cin >> t;
-    while(t--)
+    int n,m;
+    cin >> n >> m;
+    vector<int>v;
+    loop(i,0,n,1)
     {
-        ll n;
-        cin >> n;
-        // to check if a number has a odd dicisior or not bit manipulation n&n-1==0 no else yes
-        if((n&(n-1))==0) cout << "NO"<<endl;
-        else cout << "YES" <<endl;
+        int a;
+        cin >>a;
+        v.pb(a);
     }
-    return 0;
+    sort(v.begin(),v.end());
+    int sum = 0;
+    for(int i =0;i<m;i++)
+    {
+        if(v[i]<0) sum += abs(v[i]);
+    }
+    cout << sum <<endl;
 }

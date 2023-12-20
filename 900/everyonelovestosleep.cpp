@@ -15,11 +15,7 @@ int main()
     cin >> t;
     while(t--)
     {
-        ll n;
-        cin >> n;
-        // to check if a number has a odd dicisior or not bit manipulation n&n-1==0 no else yes
-        if((n&(n-1))==0) cout << "NO"<<endl;
-        else cout << "YES" <<endl;
+        
     }
     return 0;
 }
