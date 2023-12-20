@@ -1,0 +1,1 @@
+{"name":"Local: football","url":"/home/saidhakshan/strivercpsheet/900/football.cpp","tests":[{"id":1703021215948,"input":"001001\n","output":"NO"},{"id":1703021226191,"input":"1000000001","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/saidhakshan/strivercpsheet/900/football.cpp","group":"local","local":true}

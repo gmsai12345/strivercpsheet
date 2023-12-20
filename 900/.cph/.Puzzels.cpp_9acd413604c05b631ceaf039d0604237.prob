@@ -1,0 +1,1 @@
+{"name":"Local: Puzzels","url":"/home/saidhakshan/strivercpsheet/900/Puzzels.cpp","tests":[{"id":1703023938117,"input":"4 6\n10 12 10 7 5 22","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/saidhakshan/strivercpsheet/900/Puzzels.cpp","group":"local","local":true}
