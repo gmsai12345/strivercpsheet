@@ -1,0 +1,1 @@
+{"name":"Local: hossamandcombinatorics","url":"/home/saidhakshan/strivercpsheet/900/hossamandcombinatorics.cpp","tests":[{"id":1703480193784,"input":"2\n5\n6 2 3 8 1\n6\n7 2 8 3 2 10","output":"2\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/saidhakshan/strivercpsheet/900/hossamandcombinatorics.cpp","group":"local","local":true}
